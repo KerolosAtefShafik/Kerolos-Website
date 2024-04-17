@@ -327,6 +327,18 @@ ul.nostyle i {
 
 /* End Banner Section  */
 
+#cta {
+    padding: 50px 0;
+    background-color: #eeeeee;
+}
+#cta h3 {
+    margin-top: 0;
+}
+
+#cta .btn {
+    margin-top: 40px;
+}
+
 /* Start About Me Section  */
 #about {
     padding: 100px 0;
@@ -394,7 +406,7 @@ ul.nostyle i {
         color: green;
     }
     .links ul li .twitter {
-        color: blue;
+        color: black;
     }
     .links ul li .facebook {
         color: #000097;
